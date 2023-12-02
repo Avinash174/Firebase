@@ -1,6 +1,6 @@
-# firebase
+# Firebase [Phone Verification]
 
-A new Flutter project.
+A New Flutter Project.
 
 ## Getting Started
 
